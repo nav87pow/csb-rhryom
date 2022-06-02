@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "https://nav87pow.github.io/csb-rhryom/static/js/main.e0675422.chunk.js",
+    "main.js.map": "https://nav87pow.github.io/csb-rhryom/static/js/main.e0675422.chunk.js.map",
+    "runtime-main.js": "https://nav87pow.github.io/csb-rhryom/static/js/runtime-main.68d201c6.js",
+    "runtime-main.js.map": "https://nav87pow.github.io/csb-rhryom/static/js/runtime-main.68d201c6.js.map",
+    "static/js/2.c204698f.chunk.js": "https://nav87pow.github.io/csb-rhryom/static/js/2.c204698f.chunk.js",
+    "static/js/2.c204698f.chunk.js.map": "https://nav87pow.github.io/csb-rhryom/static/js/2.c204698f.chunk.js.map",
+    "index.html": "https://nav87pow.github.io/csb-rhryom/index.html",
+    "static/js/2.c204698f.chunk.js.LICENSE.txt": "https://nav87pow.github.io/csb-rhryom/static/js/2.c204698f.chunk.js.LICENSE.txt",
+    "static/media/Hospital.c96bce93.svg": "https://nav87pow.github.io/csb-rhryom/static/media/Hospital.c96bce93.svg",
+    "static/media/Medkit.b02be236.svg": "https://nav87pow.github.io/csb-rhryom/static/media/Medkit.b02be236.svg",
+    "static/media/Stethoscope.1589d4c2.svg": "https://nav87pow.github.io/csb-rhryom/static/media/Stethoscope.1589d4c2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68d201c6.js",
+    "static/js/2.c204698f.chunk.js",
+    "static/js/main.e0675422.chunk.js"
+  ]
+}
